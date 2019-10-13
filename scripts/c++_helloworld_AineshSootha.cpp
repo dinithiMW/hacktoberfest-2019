@@ -2,4 +2,9 @@
 // AUTHOR: Ainesh Sootha
 // GITHUB: https://github.com/AineshSootha
 #include<iostream>
-std::cout<<"Hello World";
+using namespace std;
+int main(){
+
+cout<<"Hello World";
+return 0;
+}
